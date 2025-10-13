@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\medico\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\medico\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\medico\\notificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\medico\\notificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\medico\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\medico\\historial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\medico\\agenda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\medico\\agenda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\medico\\menuagenda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\medico\\menuagenda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\medico\\menumedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\medico\\menumedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\paciente\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\paciente\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\paciente\\notificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\paciente\\notificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\paciente\\historialcitas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\paciente\\historialcitas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\paciente\\citasmedicas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\paciente\\citasmedicas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\paciente\\menupaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\paciente\\menupaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\cuenta\\crearcuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\cuenta\\crearcuenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\clinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\clinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\recepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\recepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|c:\\users\\gabri\\onedrive\\documents\\proyecto_catedrabd\\clinitek\\clinitek\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FD0E90-884F-4126-9786-43554F42123C}|Clinitek\\Clinitek.csproj|solutionrelative:clinitek\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Medico\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Perfil.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Medico\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:10:06.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notificaciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Notificaciones.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Medico\\Notificaciones.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Notificaciones.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Medico\\Notificaciones.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:09:43.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Historial.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Historial.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Medico\\Historial.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Historial.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Medico\\Historial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:09:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agenda.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Agenda.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Medico\\Agenda.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\Agenda.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Medico\\Agenda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:09:02.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuAgenda.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\MenuAgenda.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Medico\\MenuAgenda.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\MenuAgenda.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Medico\\MenuAgenda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:07:00.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuMedico.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\MenuMedico.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Medico\\MenuMedico.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Medico\\MenuMedico.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Medico\\MenuMedico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:06:47.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Paciente\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\Perfil.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Paciente\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:03:44.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notificaciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\Notificaciones.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Paciente\\Notificaciones.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\Notificaciones.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Paciente\\Notificaciones.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:03:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistorialCitas.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\HistorialCitas.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Paciente\\HistorialCitas.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\HistorialCitas.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Paciente\\HistorialCitas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:03:09.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CitasMedicas.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\CitasMedicas.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Paciente\\CitasMedicas.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\CitasMedicas.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Paciente\\CitasMedicas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:01:29.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuPaciente.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\MenuPaciente.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Paciente\\MenuPaciente.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Paciente\\MenuPaciente.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Paciente\\MenuPaciente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T17:01:14.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrearCuenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Cuenta\\CrearCuenta.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Cuenta\\CrearCuenta.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Cuenta\\CrearCuenta.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Cuenta\\CrearCuenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T16:51:31.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Cuenta\\Login.cshtml",
+              "RelativeDocumentMoniker": "Clinitek\\Views\\Cuenta\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Views\\Cuenta\\Login.cshtml",
+              "RelativeToolTip": "Clinitek\\Views\\Cuenta\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T16:45:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClinicaContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\ClinicaContext.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\ClinicaContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\ClinicaContext.cs",
+              "RelativeToolTip": "Clinitek\\Models\\ClinicaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:37:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clinica.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Clinica.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Clinica.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Clinica.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Clinica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:31:10.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Notificacion.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Notificacion.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Notificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:30:50.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Historia.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Historia.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Historia.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Historia.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Historia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:30:32.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Cita.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Cita.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:30:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recepcionista.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Recepcionista.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Recepcionista.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Recepcionista.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Recepcionista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:29:51.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Medico.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:28:21.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Paciente.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:27:53.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Models\\Usuario.cs",
+              "RelativeToolTip": "Clinitek\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:24:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RecepcionistaController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\RecepcionistaController.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Controllers\\RecepcionistaController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\RecepcionistaController.cs",
+              "RelativeToolTip": "Clinitek\\Controllers\\RecepcionistaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:24:36.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Clinitek\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:24:05.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Clinitek\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:23:16.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Clinitek\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\Proyecto_CatedraBD\\Clinitek\\Clinitek\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Clinitek\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:22:38.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
