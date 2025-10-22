@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clinitek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+082e2b5f3edb1aad36fd7211bf074076939277eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46203fc6573dd93f2d16431493292279bb2a7a29")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clinitek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clinitek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

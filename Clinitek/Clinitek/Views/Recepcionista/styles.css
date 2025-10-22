@@ -1,0 +1,104 @@
+:root{
+  --primary:#0C8A83;
+  --primary-2:#075E63;
+  --accent:#1F2937;
+  --bg:#F6F8FB;
+  --panel:#FFFFFF;
+  --line:#E5E7EB;
+  --text:#0F172A;
+  --muted:#64748B;
+  --ok:#16A34A; --warn:#F59E0B; --err:#EF4444;
+  --shadow:0 8px 28px rgba(2, 38, 55, .08);
+  --radius:14px;
+}
+*{box-sizing:border-box}
+html,body{height:100%; margin:0}
+body{
+  background:var(--bg); color:var(--text);
+  font: 14px/1.45 "Poppins", system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial, sans-serif;
+  display:grid; 
+  grid-template-rows: 64px 1fr; 
+  grid-template-areas: "top" "main";
+}
+
+/* Header tipo prototipo */
+header{
+  grid-area:top; display:flex; align-items:center; justify-content:space-between;
+  padding:10px 18px; background:linear-gradient(0deg,var(--primary-2),var(--primary));
+  color:#FFF; position:sticky; top:0; z-index:5; box-shadow:var(--shadow);
+}
+.brand{display:flex; align-items:center; gap:10px; min-width: 180px;}
+.logo{width:28px; height:28px; border-radius:8px; background:#fff1; display:grid; place-items:center;}
+.logo svg{width:18px; height:18px; fill:#fff}
+.name{font-weight:600; letter-spacing:.2px}
+.top-nav{display:flex; align-items:center; gap:26px; margin:0 18px;}
+.top-nav button{
+  all:unset; color:#E6FFFB; font-weight:600; font-size:13px; cursor:pointer; position:relative; padding:8px 2px;
+}
+.top-nav button:hover{opacity:.95}
+.top-nav button.active::after{
+  content:""; position:absolute; left:0; right:0; bottom:-10px; height:3px; background:#FFF; border-radius:3px;
+}
+.right-tools{display:flex; align-items:center; gap:12px; min-width:320px; justify-content:flex-end;}
+.search{display:flex; align-items:center; gap:10px; background:#fff; border:1px solid var(--line); border-radius:12px; padding:8px 12px; width:min(420px,34vw); box-shadow:0 1px 0 rgba(0,0,0,.02)}
+.search input{all:unset; color:#0F172A; width:100%}
+.icon-btn{width:36px; height:36px; display:grid; place-items:center; border-radius:999px; background:#ffffff22; cursor:pointer; border:1px solid #ffffff33;}
+.icon-btn:hover{background:#ffffff33}
+.icon-btn svg{width:18px; height:18px; fill:#fff}
+.btn{all:unset; cursor:pointer; background:#fff; color:var(--primary-2); font-weight:600; padding:10px 14px; border-radius:12px; box-shadow:var(--shadow); border:1px solid #CFFAFE}
+.btn.primary{background:var(--primary); color:#fff; border:1px solid rgba(255,255,255,.2)}
+.btn:hover{filter:brightness(.97)}
+
+/* Main + tarjetas */
+main{grid-area:main; padding:22px; overflow:auto}
+.grid{display:grid; gap:16px}
+.grid.cols-3{grid-template-columns: repeat(3, minmax(0,1fr));}
+.grid.cols-2{grid-template-columns: repeat(2, minmax(0,1fr));}
+.card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); padding:16px}
+.card h3{margin:0 0 8px 0; font-size:16px; color:var(--accent)}
+.muted{color:var(--muted)}
+.kpi{display:flex; align-items:center; justify-content:space-between; padding:14px 16px; border-radius:16px; border:1px solid var(--line); background:#fff}
+.kpi b{font-size:22px; color:#0F766E}
+
+/* Tablas */
+table{width:100%; border-collapse:separate; border-spacing:0; font-size:13px}
+thead th{position:sticky; top:0; background:#F8FAFC; z-index:1; color:#334155}
+th, td{padding:10px 12px; text-align:left; border-bottom:1px solid var(--line)}
+tr:hover td{background:#F9FAFB}
+.tag{display:inline-block; padding:4px 10px; border-radius:999px; border:1px solid #E2E8F0; background:#F8FAFC; font-size:12px}
+.tag.ok{background:#ECFDF5; border-color:#DCFCE7; color:#166534}
+.tag.warn{background:#FFFBEB; border-color:#FEF3C7; color:#92400E}
+.tag.err{background:#FEF2F2; border-color:#FECACA; color:#991B1B}
+
+/* Formularios/toolbar */
+.form{display:grid; gap:10px}
+.row{display:grid; grid-template-columns: repeat(12,1fr); gap:10px}
+.col-6{grid-column:span 6}
+.col-4{grid-column:span 4}
+.col-3{grid-column:span 3}
+label{font-size:12px; color:#475569}
+input, select, textarea{
+  width:100%; padding:10px 12px; background:#fff; color:var(--text); border:1px solid var(--line); border-radius:12px; outline:none; transition: box-shadow .15s ease, border-color .15s ease;
+}
+input:focus, select:focus, textarea:focus{border-color:#A7F3D0; box-shadow:0 0 0 4px rgba(20,184,166,.15)}
+textarea{min-height:88px; resize:vertical}
+.actions{display:flex; gap:10px; justify-content:flex-end; margin-top:8px}
+.toolbar{display:flex; gap:8px; align-items:center; margin-bottom:10px}
+.toolbar input, .toolbar select{height:38px}
+
+/* Modal base (si usas <dialog>) */
+dialog{border:none; border-radius:16px; padding:0; background:#fff; color:var(--text); box-shadow:0 24px 64px rgba(2,38,55,.22); width:min(780px,92vw)}
+dialog::backdrop{background:rgba(2, 6, 23, .45)}
+.modal-head{display:flex; justify-content:space-between; align-items:center; padding:14px 16px; border-bottom:1px solid var(--line)}
+.modal-body{padding:14px 16px}
+
+/* Responsive */
+@media (max-width: 1100px){
+  .top-nav{display:none}
+  .right-tools{min-width: 220px}
+  .grid.cols-3, .grid.cols-2{grid-template-columns:1fr}
+}
+@media (max-width: 720px){
+  header{padding:8px 12px}
+  .search{width:54vw}
+}
