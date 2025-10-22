@@ -9,109 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Clinitek
 build_property.RootNamespace = Clinitek
-build_property.ProjectDir = C:\Users\gabri\OneDrive\Documents\Proyecto_CatedraBD\Clinitek\Clinitek\
+build_property.ProjectDir = C:\Users\joshm\Desktop\UDB 2025\UDB CICLO 2-2025\DAW SOFT. INTERPRET. EN EL CLIENTE\Wall_Rabbit_Arrow\Proyecto_CatedraBD\Clinitek\Clinitek\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gabri\OneDrive\Documents\Proyecto_CatedraBD\Clinitek\Clinitek
+build_property.MSBuildProjectDirectory = C:\Users\joshm\Desktop\UDB 2025\UDB CICLO 2-2025\DAW SOFT. INTERPRET. EN EL CLIENTE\Wall_Rabbit_Arrow\Proyecto_CatedraBD\Clinitek\Clinitek
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Cuenta/CrearCuenta.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Cuenta/CrearCuenta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXENyZWFyQ3VlbnRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Cuenta/Login.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Cuenta/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Home/Index.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Home/Privacy.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Agenda.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Agenda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEFnZW5kYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Historial.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Historial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEhpc3RvcmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/MenuAgenda.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/MenuAgenda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXE1lbnVBZ2VuZGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/MenuMedico.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/MenuMedico.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXE1lbnVNZWRpY28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Notificaciones.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Notificaciones.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXE5vdGlmaWNhY2lvbmVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Perfil.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Medico/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXFBlcmZpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/CitasMedicas.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/CitasMedicas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcQ2l0YXNNZWRpY2FzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/HistorialCitas.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/HistorialCitas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcSGlzdG9yaWFsQ2l0YXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/MenuPaciente.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/MenuPaciente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcTWVudVBhY2llbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/Notificaciones.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/Notificaciones.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcTm90aWZpY2FjaW9uZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/Perfil.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Paciente/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcUGVyZmlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/Citas.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/Citas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YVxDaXRhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/GestionesPerfiles.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/GestionesPerfiles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YVxHZXN0aW9uZXNQZXJmaWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/Perfil.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YVxQZXJmaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/Reportes.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Recepcionista/Reportes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXBjaW9uaXN0YVxSZXBvcnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Shared/Error.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/_ViewImports.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/_ViewStart.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabri/OneDrive/Documents/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Shared/_Layout.cshtml]
+[C:/Users/joshm/Desktop/UDB 2025/UDB CICLO 2-2025/DAW SOFT. INTERPRET. EN EL CLIENTE/Wall_Rabbit_Arrow/Proyecto_CatedraBD/Clinitek/Clinitek/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o1d7822zgr
